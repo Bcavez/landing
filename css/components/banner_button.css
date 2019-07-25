@@ -1,0 +1,15 @@
+.banner-button {
+  text-decoration: none;
+  color: white;
+  background-color: #f54291;
+  padding: 12px 25px;
+  border-radius: 50px 5px;
+  display: inline-block;
+}
+
+.banner-button:hover{
+  text-decoration: none;
+  background-color: #ff78ae;
+  padding: 12px 25px;
+  border-radius: 5px 50px;
+}

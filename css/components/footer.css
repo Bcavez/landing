@@ -1,0 +1,14 @@
+.footer {
+  background-color: #ff78ae;
+  color: #fff8cd;
+  padding: 30px;
+}
+
+.link {
+  text-align: center;
+  font-size: 40px;
+}
+
+.fab {
+  width: 1.50em;
+}
