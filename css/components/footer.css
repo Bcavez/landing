@@ -1,7 +1,14 @@
 .footer {
   background-color: #ff78ae;
-  color: #fff8cd;
   padding: 30px;
+}
+
+.footer a {
+  color: #fff8cd;
+}
+
+.footer a:hover {
+  color: #8B0000;
 }
 
 .link {
